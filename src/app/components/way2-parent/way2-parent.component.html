@@ -1,0 +1,16 @@
+<div class="container mt-30 text-center">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card" style="width: 18rem;">
+                <img src="./assets/img/father.jpeg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <b>{{way2Msg}}</b>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-6">
+            <app-way2-child (way2Msg)="showWay2Msg($event)"></app-way2-child>
+        </div>
+    </div>
+</div>
