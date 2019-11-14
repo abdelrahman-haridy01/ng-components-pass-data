@@ -15,7 +15,6 @@ export class Way3ReceiverComponent implements OnInit {
     this.way3Service.sendMsg.subscribe(msg => {
       this.way3Msgc = msg;
     });
-    console.log(this.way3Msgc);
 
   }
 

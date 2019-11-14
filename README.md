@@ -2,13 +2,9 @@
 
 This project was generated to Explain Angular Components Passing data ways.
 
-## Youtube Tutorail
+## Youtube tutorial
 
-Check it in Arabic Language [AbharWorks.com](https://AbharWorks.com).
-
-## Live demo and editor
-
-Check it here [AbharWorks.com](https://AbharWorks.com).
+Check it in Arabic Language [Youtube](https://www.youtube.com/watch?v=eGOS7aOA9Fg&t=190s).
 
 ## Author
 

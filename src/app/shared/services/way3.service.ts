@@ -5,7 +5,7 @@ import { Injectable, Output, EventEmitter } from '@angular/core';
 })
 export class Way3Service {
 
-  @Output() sendMsg: EventEmitter<boolean> = new EventEmitter();
+  sendMsg: EventEmitter<boolean> = new EventEmitter();
 
   constructor() { }
 

@@ -15,7 +15,6 @@ export class Way3SenderComponent implements OnInit {
   }
 
   sendWay3Msg() {
-    console.log(this.way3Msgc);
     this.way3Service.updateWay3Msg(this.way3Msgc);
   }
 
